@@ -1,4 +1,4 @@
-[![MasterHead](https://www.salesforce.com/content/dam/blogs/au/2019/July/astro_moon_v2.gif)](https://www.linkedin.com/in/sovil-singh-suryavanshi)
+[![MasterHead](https://trailhead.salesforce.com/trailblazer-community/download/file/0694S000001cPwBQAU)](https://www.linkedin.com/in/sovil-singh-suryavanshi)
 <h1 align="center">Hi 👋, I'm Sovil Singh</h1>
 <h3 align="center">A passionate Salesforce developer from India | 2 x Salesforce Certified | Salesforce Certified Administrator and Platforms Developer 1 | LWC 🌟 | AURA ✨| Integration 📨 | Former .NET Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
