@@ -7,9 +7,9 @@
 
 - 📨 I’m currently working in **Aspire System**
 
-- 🔭 I’m currently working on **AURA & LWC and Salesforce Stuff**
+- 🔭 I’m currently working on **Salesforce technology and Salesforce related frameworks**
 
-- 🌱 I’m currently learning **LWC & AURA, Integration, Apex and Salesforce Related Technology**
+- 🌱 I’m currently learning **LWC & AURA, Integration, Apex and trigger, Salesforce Related Technology**
 
 - 💬 Ask me about **Salesforce Technology**
 
